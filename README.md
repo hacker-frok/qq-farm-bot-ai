@@ -6,7 +6,8 @@
 [![Follow on Telegram](https://img.shields.io/badge/Follow-Telegram-blue?logo=telegram)](https://t.me/qq_farm_bot_ai)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hacker-frok-qq-farm-bot-ai)
 
-<a href="https://ifdian.net/a/hacker-frok" target="_blank"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a >
+<a href="https://ifdian.net/a/hacker-frok" target="_blank"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a > 
+<!-- <a href="https://ifdian.net/a/hacker-frok" target="_blank"><img width="100%" src="https://github.com/user-attachments/assets/bc2bd929-8edd-4d30-bb70-8c0e70df6957" alt=""></a > -->
 
 基于 OpenCV 的模板匹配自动化项目，统一采用**多模板 + 多尺度匹配**，全面匹配各功能流程！
 
