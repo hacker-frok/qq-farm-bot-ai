@@ -6,7 +6,7 @@
 [![Follow on Telegram](https://img.shields.io/badge/Follow-Telegram-blue?logo=telegram)](https://t.me/qq_farm_bot_ai)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hacker-frok-qq-farm-bot-ai)
 
-<a href="https://ifdian.net/a/hacker-frok" target="_blank"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a > 
+<a href="https://ifdian.net/a/hacker-frok" target="_blank"><img  src="https://github.com/user-attachments/assets/e180ffa6-817d-4f0b-9611-c29d7f2af8c3" alt=""></a > 
 <!-- <a href="https://ifdian.net/a/hacker-frok" target="_blank"><img width="100%" src="https://github.com/user-attachments/assets/bc2bd929-8edd-4d30-bb70-8c0e70df6957" alt=""></a > -->
 
 基于 OpenCV 的模板匹配自动化项目，统一采用**多模板 + 多尺度匹配**，全面匹配各功能流程！
@@ -26,13 +26,12 @@
 > 
 > ***近期有网友反馈，已有黄牛进行二次打包，并私自加入所谓“卡密验证”“授权登录”等功能后进行售卖，目前已有部分用户误购。***
 > 
-> ***本软件目前不存在任何卡密、授权码、付费解锁或第三方激活流程。本软件完全免费，请匆购买！***
 > 
 > ***请务必通过github渠道下载和使用软件，不要购买、传播或运行来历不明的二次打包版本。***
 
 ## 使用提示
 
-- 本软件完全免费，若付费购买请立即退款。
+- 本软件免费使用，部分功能按需配置。
 - 请认准项目主页获取版本与说明，谨防二次售卖、捆绑分发与虚假收费。
 - 项目地址：[qq-farm-bot-ai](https://github.com/hacker-frok/qq-farm-bot-ai)
 - QQ群：[1077694137](https://qm.qq.com/cgi-bin/qm/qr?k=t23cMADw5uHeEnLI-ZQ9InQJj8oPsfS9&jump_from=webapi&authKey=hJCDe2nh7Z69j3MJVfEQORzZFRkM0sQdPYAqBDsGqKuRbRCMJt8eMMLbtS+BD1bO) (网友提供) <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=t23cMADw5uHeEnLI-ZQ9InQJj8oPsfS9&jump_from=webapi&authKey=hJCDe2nh7Z69j3MJVfEQORzZFRkM0sQdPYAqBDsGqKuRbRCMJt8eMMLbtS+BD1bO"><img border="0" height="20px" vertical-align="middle" src="https://pub.idqqimg.com/wpa/images/group.png" alt="QQ经典农场沉浸式偷菜" title="QQ经典农场沉浸式偷菜"></a>
@@ -47,12 +46,15 @@
 - [x] 自动播种
 - [x] 自动施肥
 - [x] 收获后自动触发播种
+- [x] 播种四格土地种子
 - [x] 好友农场偷菜
 - [x] 好友农场帮忙
 - [x] 好友农场黑名单功能
 - [x] 每日任务福利领取
 - [x] 每日分享福利领取(随机分离给最近好友)
 - [x] 每日商城福利领取
+- [x] 微信抢鼠标处理
+- [x] 不偷白萝卜
 - [x] QQ SVIP礼包领取
 - [x] 任务调度时间自定义
 - [x] 好友流程冷却机制（无任务后冷却，避免频繁空转）
@@ -63,7 +65,7 @@
 - [x] 每日计数持久化（重启不丢失，跨天自动重置）
 - [x] 命中模板与匹配区域调试预览
 - [x] 全局退出热键（`Ctrl+Shift+E`）
-- [ ] 多开功能（支持多开窗口，多开账号）
+- [x] 多开功能（支持多开窗口，多开账号）
 
 
 
@@ -89,7 +91,7 @@
 
 ## 运行要求
 
-- Windows 10/11
+- Windows 10/11，注意：不支持Windows 7
 
 ## 下载安装运行
 
@@ -105,7 +107,6 @@
 - 请在 [Telegram](https://t.me/qq_farm_bot_ai) 群组反馈问题。
 - 请在 [GitHub](https://github.com/hacker-frok/qq-farm-bot-ai/issues) 提交 Issue。
 ## 已知问题
-- 微信小程序会抢焦点，影响打字，目前无解，建议新建另一个桌面运行机器人，或者虚拟机中运行。
 - 部分机器性能较差(虚拟机\云电脑)，需要把运行任务的时间间隔调大一些，避免卡顿或者弹窗未检测到。
 - 如果启动失败，可以尝试安装[vc++类库](https://aka.ms/vc14/vc_redist.x64.exe )
 - 虚拟机\云电脑中不要隐藏小程序
